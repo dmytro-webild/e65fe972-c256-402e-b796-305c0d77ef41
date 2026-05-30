@@ -66,19 +66,19 @@ export default function LandingPage() {
       description="Your trusted resource for evidence-based information on medical cannabis in Thailand. Explore its history, uses, products, and the evolving legal landscape."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/marijuana-leaf_1150-13454.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/marijuana-leaf_1150-13454.jpg?_wi=1",
           imageAlt: "Medical cannabis cultivation in Thailand",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cute-girl-meditating-near-palm_23-2147791945.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cute-girl-meditating-near-palm_23-2147791945.jpg?_wi=1",
           imageAlt: "Traditional Thai medicine using cannabis",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-green-plant-leaves_23-2148791184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-green-plant-leaves_23-2148791184.jpg?_wi=1",
           imageAlt: "Modern medical cannabis products",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cannabis-cannabis-seeds-cannabis-leaves-placed-green-board-wooden-floor_1150-18863.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cannabis-cannabis-seeds-cannabis-leaves-placed-green-board-wooden-floor_1150-18863.jpg?_wi=1",
           imageAlt: "Cannabis research and patient consultation",
         },
         {
@@ -214,7 +214,7 @@ export default function LandingPage() {
           description: "Applied directly to the skin for localized pain or inflammation relief. Provides targeted effects without systemic absorption or intoxication.",
           bentoComponent: "reveal-icon",
           icon: Palette,
-          imageSrc: "http://img.b2bpic.net/free-photo/marijuana-leaf_1150-13454.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/marijuana-leaf_1150-13454.jpg?_wi=2",
           imageAlt: "ancient thai traditional medicine herbalist",
         },
         {
@@ -222,7 +222,7 @@ export default function LandingPage() {
           description: "Ingestible forms like gummies or capsules, characterized by delayed onset but prolonged therapeutic effects. Requires careful dosing due to potency.",
           bentoComponent: "reveal-icon",
           icon: Candy,
-          imageSrc: "http://img.b2bpic.net/free-photo/cute-girl-meditating-near-palm_23-2147791945.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cute-girl-meditating-near-palm_23-2147791945.jpg?_wi=2",
           imageAlt: "ancient thai traditional medicine herbalist",
         },
         {
@@ -230,7 +230,7 @@ export default function LandingPage() {
           description: "Highly potent extracts such as shatter or wax, typically vaporized. Recommended for experienced patients under strict medical supervision due to their strength.",
           bentoComponent: "reveal-icon",
           icon: Gauge,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-green-plant-leaves_23-2148791184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-green-plant-leaves_23-2148791184.jpg?_wi=2",
           imageAlt: "ancient thai traditional medicine herbalist",
         },
         {
@@ -238,7 +238,7 @@ export default function LandingPage() {
           description: "Offer slow, steady release of cannabinoids through the skin, providing consistent therapeutic effects over many hours for sustained relief.",
           bentoComponent: "reveal-icon",
           icon: FileText,
-          imageSrc: "http://img.b2bpic.net/free-photo/cannabis-cannabis-seeds-cannabis-leaves-placed-green-board-wooden-floor_1150-18863.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cannabis-cannabis-seeds-cannabis-leaves-placed-green-board-wooden-floor_1150-18863.jpg?_wi=2",
           imageAlt: "ancient thai traditional medicine herbalist",
         },
       ]}
