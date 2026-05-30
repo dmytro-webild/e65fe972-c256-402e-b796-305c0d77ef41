@@ -9,8 +9,8 @@ import { getVisualEditScript } from "@/utils/visual-edit-script";
 
 
 export const metadata: Metadata = {
-  title: 'Cannabis in Thailand: Medical Insights, Laws & Research | ThaiCannabisGuide',
-  description: 'Explore authoritative, evidence-based information on medical cannabis in Thailand, including its history, uses, products, and strict legal framework. Discover research on its effects on hypertension, diabetes, insomnia, and chronic pain.',
+  title: "Cannabis in Thailand: Medical Insights, Laws & Research | Thai Cannabis Guide",
+  description: "Explore authoritative, evidence-based information on medical cannabis in Thailand, including its history, uses, products, and strict legal framework. Discover research on its effects on hypertension, diabetes, insomnia, and chronic pain.",
   keywords: ["cannabis Thailand, medical cannabis, Thailand cannabis law, CBD Thailand, cannabis for pain, cannabis and diabetes, cannabis and high blood pressure, cannabis insomnia, Thai traditional medicine, cannabis strains, cannabis products, Thailand medical marijuana, cannabis research, medical marijuana Thailand"],
   openGraph: {
     "title": "Cannabis in Thailand: Medical Insights, Laws & Research | ThaiCannabisGuide",
